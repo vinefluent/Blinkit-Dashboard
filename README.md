@@ -1,9 +1,9 @@
 # Blinkit Sales Dashboard
 
 ## 📌 About the Project
-I created this Power BI dashboard to help Blinkit track their sales, manage stock, and understand customer buying habits.
+I created this Power BI dashboard to help Blinkit track its sales, manage stock, and understand customer buying habits.
 
-The main goal was to find useful patterns in sales data and help make better business decisions.
+The primary objective was to identify useful patterns in sales data and inform more informed business decisions.
 
 ## 🛠 Tools Used
 - Power BI (for dashboard)
@@ -12,7 +12,7 @@ The main goal was to find useful patterns in sales data and help make better bus
 
 ## 🔍 What You’ll See in the Dashboard
 - Daily and weekly sales trends
-- Which products are selling most
+- Which products are selling the most
 - Low stock alerts
 - Customer behavior (like what they buy often)
 - Delivery improvement tracking
@@ -20,7 +20,7 @@ The main goal was to find useful patterns in sales data and help make better bus
 ## 📂 Files in this Project
 - Blinkit_Sales_Dashboard.pbix → The dashboard file  
 - sales_data.csv → The raw sales data  
-- inventory_data.csv → Product stock info  
+- inventory_data.csv → Product Stock info  
 - Screenshot.png → (Optional) Image of the dashboard
 
 ## 🚀 What I Learned
@@ -28,5 +28,9 @@ The main goal was to find useful patterns in sales data and help make better bus
 - Created charts and KPIs in Power BI
 - Used DAX formulas for calculations
 - Made the dashboard easy to understand for others
+
+📁 **Project Files (Google Drive)**  
+You can view and download the dashboard and data files here:  
+👉 [Click to Access](https://drive.google.com/drive/folders/1EFn7dNyptScFEZPEnbh9mQWtcAHVnLQY?usp=drive_link)
 
 Thanks for checking out my project! 😊
